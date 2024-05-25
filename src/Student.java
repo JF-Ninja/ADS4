@@ -1,5 +1,3 @@
-import static jdk.nashorn.internal.runtime.regexp.joni.constants.NodeType.STR;
-
 public class Student {
     int id;
     String name;
